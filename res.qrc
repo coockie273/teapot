@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>chainik.jpg</file>
+    </qresource>
+</RCC>
